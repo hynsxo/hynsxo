@@ -1,14 +1,16 @@
-## 반갑습니다~ 이현서입니다!
-<img src="./profile.png" width="150" align="right" alt="이현서">
-**Contact: hyunseo379@hanmail.net**
+<div align="center">
+
+<img width="150" alt="profile" src="https://github.com/user-attachments/assets/28456edb-0d89-4f1f-8875-fe290c158b99" />
 
 # 이현서 포트폴리오 (Lee Hyeonseo)
 
-> 실행이 곧 나를 만든다. 시행착오 속에서 배우며 스스로 성장의 흐름을 만드는 삶
+실행이 곧 나를 만든다.<br>시행착오 속에서 배우며 스스로 성장의 흐름을 만드는 삶
 
-인하대학교 컴퓨터공학과 (GPA 4.02 / 4.5) | 임베디드 · 시스템 · 데이터 분석
+**인하대학교 컴퓨터공학과 (GPA 4.02 / 4.5)** | 임베디드 · 시스템 · 데이터 분석
 
-**Portfolio: [📄 이현서_포트폴리오.pdf](./이현서_포트폴리오.pdf)**
+📧 hyunseo379@hanmail.net &nbsp;|&nbsp; 📄 [포트폴리오 PDF](./이현서_포트폴리오.pdf)
+
+</div>
 
 ---
 
