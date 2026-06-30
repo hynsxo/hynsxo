@@ -7,7 +7,7 @@
 
 인하대학교 컴퓨터공학과 (GPA 4.02 / 4.5) | 임베디드 · 시스템 · 데이터 분석
 
-**Portfolio: [포트폴리오_이현서.pdf](https://github.com/user-attachments/files/28100037/_.pdf)**
+**Portfolio: [📄 이현서_포트폴리오.pdf](./이현서_포트폴리오.pdf)**
 
 ---
 
