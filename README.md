@@ -1,4 +1,5 @@
 ## 반갑습니다~ 이현서입니다!
+<img src="./profile.png" width="150" align="right" alt="이현서">
 **Contact: hyunseo379@hanmail.net**
 
 # 이현서 포트폴리오 (Lee Hyeonseo)
